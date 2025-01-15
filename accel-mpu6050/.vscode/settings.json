@@ -1,0 +1,13 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\HINA\\esp_extension\\v5.3.2\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM8",
+    "idf.toolsPathWin": "d:\\HINA\\.expressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "regex": "c"
+    }
+}
